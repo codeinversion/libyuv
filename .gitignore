@@ -1,5 +1,6 @@
 *.pyc
 .landmines
+.swiftpm
 pin-log.txt
 /base
 /build
